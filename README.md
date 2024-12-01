@@ -72,6 +72,7 @@ To run the server side of the GrowthX Assignment Submission Portal locally, foll
 
 1. Clone the repository: `git clone https://github.com/raushan-kumar7/growthx-assignment-submission-portal.git`
 2. Install the dependencies: `npm install`
-3. Start the server in development mode: `npm run dev`
-4. Alternatively, to start the server in production mode: `npm run start`
-5. The server will run at: `http://localhost:3600`
+3. Set the enironment variables: `cp .env.example .env` and then edit `.env` file with your database credentials and other necessary configurations.
+4. Start the server in development mode: `npm run dev`
+5. Alternatively, to start the server in production mode: `npm run start`
+6. The server will run at: `http://localhost:3600`
