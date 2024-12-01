@@ -3,7 +3,7 @@
 The **Assignment Submission Portal** is a backend system developed using Node.js, Express, and MongoDB. This portal streamlines assignment management for users and admins. Users can register, log in, and upload assignments for admins to review. Admins have the ability to view, accept, or reject assignments. With a secure and organized structure, the system provides clear API endpoints for smooth operations, supports efficient workflows, and facilitates testing with tools like Postman.  
 
 #### **Deployed Link:**  
-_Provide the deployed link here_  
+_[Link](https://assignment-portal-n5vc.onrender.com)_  
 
 #### **Postman Collection:**  
 _Provide the link to the Postman collection here_  
@@ -70,7 +70,7 @@ This project utilizes the following technologies and tools:
 ### **Installation**
 To run the server side of the GrowthX Assignment Submission Portal locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/raushan-kumar7/growthx-assignment-submission-portal.git`
+1. Clone the repository: `git clone https://github.com/raushan-kumar7/growthx.git`
 2. Install the dependencies: `npm install`
 3. Set the enironment variables: `cp .env.example .env` and then edit `.env` file with your database credentials and other necessary configurations.
 4. Start the server in development mode: `npm run dev`
