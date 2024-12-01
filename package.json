@@ -1,22 +1,14 @@
 {
-  "name": "growthx-assignment-submission-portal",
+  "name": "growthx-",
   "version": "1.0.0",
   "description": "A backend application designed to manage assignment submissions and reviews efficiently, built with Node.js.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node ./src/index.js",
-    "dev": "nodemon ./src/index.js"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
   },
-  "keywords": [
-    "Node.js",
-    "assignment submission",
-    "backend",
-    "Express",
-    "MongoDB",
-    "CRUD operations",
-    "API"
-  ],
+  "keywords": ["Node.js", "assignment submission", "backend", "Express", "MongoDB", "CRUD operations", "API"],
   "author": "Raushan Kumar",
   "license": "ISC",
   "devDependencies": {
