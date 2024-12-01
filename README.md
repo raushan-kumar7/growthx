@@ -43,6 +43,13 @@ This project utilizes the following technologies and tools:
 
 ## **API Endpoints**
 
+### Server Status
+
+| **Method** | **Endpoint**       | **Description**                            | **Access Level**  |
+|------------|--------------------|--------------------------------------------|-------------------|
+| GET        | `/api/health`      | Checks the server's health and readiness.  | Public            |
+| GET        | `/api/welcome`     | Displays a welcome message for the API.    | Public            |
+
 #### User Routes  
 
 | **Method** | **Endpoint**        | **Description**                  | **Access Level** |
