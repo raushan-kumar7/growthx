@@ -6,7 +6,7 @@ The **Assignment Submission Portal** is a backend system developed using Node.js
 _[Link](https://assignment-portal-n5vc.onrender.com)_  
 
 #### **Postman Collection:**  
-_Provide the link to the Postman collection here_  
+_[Link](https://documenter.getpostman.com/view/33969186/2sAYBYeq6U)_  
 
 ## **Features**  
 - User registration and login functionality.  
